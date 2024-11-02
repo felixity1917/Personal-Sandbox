@@ -1,10 +1,12 @@
 This problem was provided by a peer. I have tried to solve it in my own way.
 
 To test this on a console please execute the following in a shell:
+
 Linux/MacOS:
 ``` sh
 $ cat input.txt | python main.py
 ```
+
 Windows:
 ``` powershell
 PS> type input.txt | python main.py
