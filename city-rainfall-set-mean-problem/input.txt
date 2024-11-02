@@ -1,0 +1,6 @@
+5
+London 20
+Paris 30
+London 25
+Berlin 15
+Paris 35
